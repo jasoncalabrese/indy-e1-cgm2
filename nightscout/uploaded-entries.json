@@ -133,20 +133,5 @@
     "sgv": 103, 
     "type": "sgv", 
     "glucose": 103
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-12T11:43:21-07:00", 
-    "system_time": "2016-06-12T17:40:46-07:00", 
-    "direction": "Flat", 
-    "dateString": "2016-06-12T11:43:21-07:00", 
-    "date": 1465757001000, 
-    "unfiltered": 113072, 
-    "filtered": 110384, 
-    "device": "openaps://cgm", 
-    "rssi": 193, 
-    "sgv": 108, 
-    "type": "sgv", 
-    "glucose": 108
   }
 ]
