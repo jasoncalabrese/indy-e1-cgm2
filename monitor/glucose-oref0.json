@@ -1522,23 +1522,8 @@
     "display_time": "2016-06-11T23:13:24", 
     "date": 1465712004000.0, 
     "dateString": "2016-06-11T23:13:24", 
-    "unfiltered": 158336, 
-    "filtered": 161408, 
     "device": "openaps://cgm", 
-    "rssi": 176, 
     "type": "sgv", 
     "glucose": 169
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "system_time": "2016-06-12T05:05:49", 
-    "direction": "Flat", 
-    "sgv": 188, 
-    "display_time": "2016-06-11T23:08:24", 
-    "date": 1465711704000.0, 
-    "dateString": "2016-06-11T23:08:24", 
-    "device": "openaps://cgm", 
-    "type": "sgv", 
-    "glucose": 188
   }
 ]
