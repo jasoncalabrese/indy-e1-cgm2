@@ -1,6 +1,36 @@
 [
   {
     "trend_arrow": "45_UP", 
+    "display_time": "2016-06-12T11:33:21-07:00", 
+    "direction": "FortyFiveUp", 
+    "system_time": "2016-06-12T17:30:46-07:00", 
+    "sgv": 103, 
+    "dateString": "2016-06-12T11:33:21-07:00", 
+    "device": "openaps://cgm", 
+    "unfiltered": 109024, 
+    "rssi": 184, 
+    "date": 1465756401000.0, 
+    "filtered": 103680, 
+    "type": "sgv", 
+    "glucose": 103
+  }, 
+  {
+    "trend_arrow": "45_UP", 
+    "display_time": "2016-06-12T11:28:21-07:00", 
+    "direction": "FortyFiveUp", 
+    "system_time": "2016-06-12T17:25:46-07:00", 
+    "sgv": 99, 
+    "dateString": "2016-06-12T11:28:21-07:00", 
+    "device": "openaps://cgm", 
+    "unfiltered": 106576, 
+    "rssi": 184, 
+    "date": 1465756101000.0, 
+    "filtered": 96976, 
+    "type": "sgv", 
+    "glucose": 99
+  }, 
+  {
+    "trend_arrow": "45_UP", 
     "display_time": "2016-06-12T11:23:22-07:00", 
     "direction": "FortyFiveUp", 
     "system_time": "2016-06-12T17:20:46-07:00", 
@@ -1507,10 +1537,7 @@
     "sgv": 172, 
     "dateString": "2016-06-12T03:13:23-07:00", 
     "device": "openaps://cgm", 
-    "unfiltered": 151552, 
-    "rssi": 179, 
     "date": 1465726403000.0, 
-    "filtered": 144672, 
     "type": "sgv", 
     "glucose": 172
   }, 
@@ -1522,35 +1549,8 @@
     "sgv": 171, 
     "dateString": "2016-06-12T03:08:23-07:00", 
     "device": "openaps://cgm", 
-    "unfiltered": 146400, 
-    "rssi": 179, 
     "date": 1465726103000.0, 
-    "filtered": 144768, 
     "type": "sgv", 
     "glucose": 171
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-12T03:03:23-07:00", 
-    "direction": "Flat", 
-    "system_time": "2016-06-12T09:00:48-07:00", 
-    "sgv": 167, 
-    "dateString": "2016-06-12T03:03:23-07:00", 
-    "device": "openaps://cgm", 
-    "date": 1465725803000.0, 
-    "type": "sgv", 
-    "glucose": 167
-  }, 
-  {
-    "trend_arrow": "FLAT", 
-    "display_time": "2016-06-12T02:58:23-07:00", 
-    "direction": "Flat", 
-    "system_time": "2016-06-12T08:55:48-07:00", 
-    "sgv": 160, 
-    "dateString": "2016-06-12T02:58:23-07:00", 
-    "device": "openaps://cgm", 
-    "date": 1465725503000.0, 
-    "type": "sgv", 
-    "glucose": 160
   }
 ]
